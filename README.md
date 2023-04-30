@@ -1,1 +1,3 @@
 # DOT-REDUCE-EXERCISE
+
+adding something...
